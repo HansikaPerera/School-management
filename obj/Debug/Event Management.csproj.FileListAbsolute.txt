@@ -1,0 +1,12 @@
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\bin\Debug\Event Management.exe
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\bin\Debug\Event Management.pdb
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event Management.csprojResolveAssemblyReference.cache
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event_Management.EventDashboard.resources
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event_Management.Form1.resources
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event_Management.Properties.Resources.resources
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event Management.csproj.GenerateResource.Cache
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event Management.exe
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event Management.pdb
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event_Management.Event.resources
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event_Management.Notification.resources
+C:\Users\Hansika Perera\Desktop\Event Management\Event Management\Event Management\obj\Debug\Event_Management.Society.resources
